@@ -2,13 +2,13 @@
 # readme generator
 
 # Table of Contents
-*[Description](#description)
-*[Installation](#installation)
-*[Usage](#usage)
-*[Contribution](#contribution)
-*[Test](#test)
-*[GitHub](#github)
-*[Email](#email)
+[Description](#description)
+/[Installation](#installation)
+/[Usage](#usage)
+/[Contribution](#contribution)
+/[Test](#test)
+/[GitHub](#github)
+/[Email](#email)
 
 # Description
 this application can create readme based on my answers
