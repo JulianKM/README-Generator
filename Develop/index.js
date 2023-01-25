@@ -59,13 +59,13 @@ inquirer
 # ${data.projecttitle}
 
 # Table of Contents
-*[Description](#description)
-*[Installation](#installation)
-*[Usage](#usage)
-*[Contribution](#contribution)
-*[Test](#test)
-*[GitHub](#github)
-*[Email](#email)
+[Description](#description)
+/[Installation](#installation)
+/[Usage](#usage)
+/[Contribution](#contribution)
+/[Test](#test)
+/[GitHub](#github)
+/[Email](#email)
 
 # Description
 ${data.description}
